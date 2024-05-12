@@ -1,3 +1,3 @@
 # kubernetes-learning
 
-- [Link to Tutorial](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
